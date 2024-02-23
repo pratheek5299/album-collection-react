@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/album-collection-react/static/css/main.89252a56.css",
+    "main.js": "/album-collection-react/static/js/main.c04cb5e5.js",
+    "index.html": "/album-collection-react/index.html",
+    "main.89252a56.css.map": "/album-collection-react/static/css/main.89252a56.css.map",
+    "main.c04cb5e5.js.map": "/album-collection-react/static/js/main.c04cb5e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89252a56.css",
+    "static/js/main.c04cb5e5.js"
+  ]
+}
